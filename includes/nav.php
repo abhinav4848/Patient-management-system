@@ -1,0 +1,2 @@
+<a href="dashboard.php">Dashboard</a> | <a href="new-patient.php">New Patient</a> | <?='Dr. '.$_SESSION['name']. ' <small class="text-muted">(ID# '.$_SESSION['id'].')</small>'?> (<a href="index.php?logout" class="text-danger">Logout</a>)
+<hr>
