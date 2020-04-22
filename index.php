@@ -118,7 +118,7 @@ if (array_key_exists("submit", $_POST)) {
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-    <title>Dhruv Patient admin</title>
+    <title>Patient Management System</title>
 
     <style type="text/css">
     body {
